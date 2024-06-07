@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" viewBox="0 0 100 100">
+  <defs>
+    <clipPath id="clip-Crying-Face">
+      <rect width="100" height="100"/>
+    </clipPath>
+  </defs>
+  <g id="Crying-Face" clip-path="url(#clip-Crying-Face)">
+    <g id="Group_230" data-name="Group 230">
+      <path id="Path_4" data-name="Path 4" d="M50,7.5A42.5,42.5,0,1,0,92.5,50,42.548,42.548,0,0,0,50,7.5M50,0A50,50,0,1,1,0,50,50,50,0,0,1,50,0Z"/>
+      <g id="Group_229" data-name="Group 229">
+        <g id="Group_37" data-name="Group 37" transform="translate(15.176 26.732)">
+          <g id="Group_35" data-name="Group 35" transform="translate(0)">
+            <g id="Group_228" data-name="Group 228" transform="translate(0.824)">
+              <path id="Path_5" data-name="Path 5" d="M2.5,15.292A2.5,2.5,0,0,1,.3,11.6,24.75,24.75,0,0,1,18.162.025a2.5,2.5,0,0,1,.7,4.95A19.815,19.815,0,0,0,4.7,13.981,2.5,2.5,0,0,1,2.5,15.292Z" transform="matrix(0.995, -0.105, 0.105, 0.995, 0, 3.197)"/>
+              <path id="Path_15" data-name="Path 15" d="M18.517,15.292a2.52,2.52,0,0,1-.355-.025A24.75,24.75,0,0,1,.3,3.69,2.5,2.5,0,0,1,4.7,1.307a19.717,19.717,0,0,0,14.169,9.01,2.5,2.5,0,0,1-.349,4.975Z" transform="matrix(-0.995, -0.105, 0.105, -0.995, 66.049, 18.405)"/>
+            </g>
+          </g>
+        </g>
+        <g id="Group_36" data-name="Group 36" transform="translate(30 45.137)">
+          <ellipse id="Ellipse_4" data-name="Ellipse 4" cx="5.638" cy="6.889" rx="5.638" ry="6.889" transform="translate(0)"/>
+          <ellipse id="Ellipse_5" data-name="Ellipse 5" cx="5.638" cy="6.889" rx="5.638" ry="6.889" transform="translate(28.703)"/>
+        </g>
+        <path id="Path_29" data-name="Path 29" d="M.929,55.564c6.558-3.461,14.255-2.455,20.427,0s-2.222-8.539-10.388-8.709S-5.629,59.025.929,55.564Z" transform="translate(38.965 24.646)"/>
+        <path id="Path_30" data-name="Path 30" d="M9,0s10.973,20.492,8.778,27.323-15.362,6.831-17.557,0S9,0,9,0Z" transform="translate(18.758 56.5)"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" viewBox="0 0 100 100">
+  <defs>
+    <clipPath id="clip-Smiling-Face-with-Halo">
+      <rect width="100" height="100"/>
+    </clipPath>
+  </defs>
+  <g id="Smiling-Face-with-Halo" clip-path="url(#clip-Smiling-Face-with-Halo)">
+    <g id="Group_126" data-name="Group 126">
+      <path id="Path_4" data-name="Path 4" d="M50,7.5A42.5,42.5,0,1,0,92.5,50,42.548,42.548,0,0,0,50,7.5M50,0A50,50,0,1,1,0,50,50,50,0,0,1,50,0Z"/>
+      <g id="Group_125" data-name="Group 125">
+        <g id="Group_124" data-name="Group 124" transform="translate(-1.148)">
+          <g id="Group_21" data-name="Group 21" transform="translate(28 28.705)">
+            <path id="Path_23" data-name="Path 23" d="M.256,63.109c4.676-6.458,10.163-4.582,14.564,0S13.235,47.175,7.413,46.857-4.42,69.568.256,63.109Z" transform="translate(1.417 -42.603)"/>
+            <path id="Path_24" data-name="Path 24" d="M.256,63.109c4.676-6.458,10.163-4.582,14.564,0S13.235,47.175,7.413,46.857-4.42,69.568.256,63.109Z" transform="translate(29.421 -42.603)"/>
+          </g>
+          <path id="Path_29" data-name="Path 29" d="M3.058,48.315c12.5,7.709,27.162,5.47,38.925,0s-3.546,11.8-19.106,12.179S-9.438,40.606,3.058,48.315Z" transform="translate(28.455 19.851)"/>
+        </g>
+        <path id="Ellipse_7" data-name="Ellipse 7" d="M50,7.5c-20.354,0-34.258,3.319-40.14,6,5.882,2.681,19.787,6,40.14,6s34.258-3.319,40.14-6c-5.882-2.681-19.787-6-40.14-6M50,0c27.614,0,50,6.044,50,13.5S77.614,27,50,27,0,20.956,0,13.5,22.386,0,50,0Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

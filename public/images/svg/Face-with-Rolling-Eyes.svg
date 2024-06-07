@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" viewBox="0 0 100 100">
+  <defs>
+    <clipPath id="clip-Face-with-Rolling-Eyes">
+      <rect width="100" height="100"/>
+    </clipPath>
+  </defs>
+  <g id="Face-with-Rolling-Eyes" clip-path="url(#clip-Face-with-Rolling-Eyes)">
+    <g id="Group_153" data-name="Group 153">
+      <path id="Path_4" data-name="Path 4" d="M50,7.5A42.5,42.5,0,1,0,92.5,50,42.548,42.548,0,0,0,50,7.5M50,0A50,50,0,1,1,0,50,50,50,0,0,1,50,0Z"/>
+      <g id="Group_152" data-name="Group 152" transform="translate(-1)">
+        <path id="Path_28" data-name="Path 28" d="M-21.981,93.82H-42.134a2.5,2.5,0,0,1-2.5-2.5,2.5,2.5,0,0,1,2.5-2.5h20.153a2.5,2.5,0,0,1,2.5,2.5A2.5,2.5,0,0,1-21.981,93.82Z" transform="translate(82.634 -11.605)"/>
+        <g id="Group_151" data-name="Group 151">
+          <g id="Group_150" data-name="Group 150">
+            <ellipse id="Ellipse_3" data-name="Ellipse 3" cx="5.162" cy="6.5" rx="5.162" ry="6.5" transform="translate(24 32)"/>
+            <path id="Path_62" data-name="Path 62" d="M16,3A13,13,0,0,0,6.808,25.192,13,13,0,0,0,25.192,6.808,12.915,12.915,0,0,0,16,3m0-3A16,16,0,1,1,0,16,16,16,0,0,1,16,0Z" transform="translate(13 32)"/>
+          </g>
+          <g id="Group_149" data-name="Group 149" transform="translate(0 -2)">
+            <ellipse id="Ellipse_13" data-name="Ellipse 13" cx="5.162" cy="6.5" rx="5.162" ry="6.5" transform="translate(68 34)"/>
+            <path id="Path_63" data-name="Path 63" d="M16,3A13,13,0,0,0,6.808,25.192,13,13,0,0,0,25.192,6.808,12.915,12.915,0,0,0,16,3m0-3A16,16,0,1,1,0,16,16,16,0,0,1,16,0Z" transform="translate(57 34)"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

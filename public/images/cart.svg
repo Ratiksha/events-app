@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-cart">
+      <rect width="20" height="20"/>
+    </clipPath>
+  </defs>
+  <g id="cart" clip-path="url(#clip-cart)">
+    <g id="Group_276" data-name="Group 276" transform="translate(-276 -824.564)">
+      <path id="Union_11" data-name="Union 11" d="M7.734,13.268a.7.7,0,0,1-.183-.024.7.7,0,0,1-.726-.519L3.792,1.406H.7A.7.7,0,0,1,.7,0H4.218a.7.7,0,0,1,.39.118A.7.7,0,0,1,5.03.59L5.543,2.5H19.081s.62-.07.827.193,0,.86,0,.86l-1.6,5.071a2.589,2.589,0,0,1-.41.752,1.233,1.233,0,0,1-.582.352L7.755,10.759l.3,1.1h9.526a.7.7,0,0,1,0,1.406Z" transform="translate(276 826.564)"/>
+      <circle id="Ellipse_27" data-name="Ellipse 27" cx="1.406" cy="1.406" r="1.406" transform="translate(284.436 840.535)"/>
+      <circle id="Ellipse_28" data-name="Ellipse 28" cx="1.406" cy="1.406" r="1.406" transform="translate(290.061 840.535)"/>
+    </g>
+  </g>
+</svg>

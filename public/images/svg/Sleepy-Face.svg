@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" viewBox="0 0 100 100">
+  <defs>
+    <clipPath id="clip-Sleepy-Face">
+      <rect width="100" height="100"/>
+    </clipPath>
+  </defs>
+  <g id="Sleepy-Face" clip-path="url(#clip-Sleepy-Face)">
+    <g id="Group_172" data-name="Group 172">
+      <g id="Group_171" data-name="Group 171">
+        <path id="Path_4" data-name="Path 4" d="M50,7.5A42.5,42.5,0,1,0,92.5,50,42.548,42.548,0,0,0,50,7.5M50,0A50,50,0,1,1,0,50,50,50,0,0,1,50,0Z"/>
+        <g id="Group_170" data-name="Group 170" transform="translate(0)">
+          <g id="Group_169" data-name="Group 169">
+            <g id="Group_62" data-name="Group 62" transform="translate(16 52)">
+              <g id="Group_11" data-name="Group 11" transform="translate(0)">
+                <path id="Path_14" data-name="Path 14" d="M1.066,47.466c6.942,3.458,15.089,2.454,21.623,0s-2.352,8.532-11,8.7S-5.875,44.008,1.066,47.466Z" transform="translate(42.818 -46.854)"/>
+                <path id="Path_18" data-name="Path 18" d="M1.066,47.466c6.942,3.458,15.089,2.454,21.623,0s-2.352,8.532-11,8.7S-5.875,44.008,1.066,47.466Z" transform="translate(1.417 -46.854)"/>
+              </g>
+            </g>
+            <g id="Group_161" data-name="Group 161" transform="translate(-1.964 4)">
+              <path id="Path_19" data-name="Path 19" d="M2.5,15.407a2.5,2.5,0,0,1-2.2-3.69A25,25,0,0,1,18.34.025a2.5,2.5,0,0,1,.7,4.95A20.065,20.065,0,0,0,4.7,14.1,2.5,2.5,0,0,1,2.5,15.407Z" transform="translate(16.108 23) rotate(8)"/>
+              <path id="Path_19-2" data-name="Path 19" d="M2.5,0A2.5,2.5,0,0,0,.3,3.69,25,25,0,0,0,18.34,15.382a2.5,2.5,0,0,0,.7-4.95A20.065,20.065,0,0,1,4.7,1.311,2.5,2.5,0,0,0,2.5,0Z" transform="translate(90.114 38.257) rotate(172)"/>
+            </g>
+          </g>
+          <path id="Path_67" data-name="Path 67" d="M668.253,504.307c7.806,1.778,28.334.525,32.131,0,1.637-1.726.863-3.605-1.58-5.392-2.824-2.076-8.442-3.795-13.152-3.795a35.644,35.644,0,0,0-12.338,2.629C669.044,499.466,665.977,502.022,668.253,504.307Z" transform="translate(-634.48 -419.001)"/>
+        </g>
+      </g>
+      <path id="Path_68" data-name="Path 68" d="M695.2,412.48s3.168,3.5,10.05,10.05,9.831,16.167,17.478,16.167,14.419-9.613,13.109-16.167-8.193-7.537-18.352-10.05S695.2,412.48,695.2,412.48Z" transform="translate(-638 -342)"/>
+    </g>
+  </g>
+</svg>

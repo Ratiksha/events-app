@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" viewBox="0 0 100 100">
+  <defs>
+    <clipPath id="clip-Downcast-Face-with-Sweat">
+      <rect width="100" height="100"/>
+    </clipPath>
+  </defs>
+  <g id="Downcast-Face-with-Sweat" clip-path="url(#clip-Downcast-Face-with-Sweat)">
+    <g id="Group_239" data-name="Group 239">
+      <path id="Path_19" data-name="Path 19" d="M2.5,0A2.5,2.5,0,0,0,.3,3.69,25,25,0,0,0,18.34,15.382a2.5,2.5,0,1,0,.7-4.95A20.065,20.065,0,0,1,4.7,1.311,2.5,2.5,0,0,0,2.5,0Z" transform="matrix(-0.53, 0.848, -0.848, -0.53, 41.677, 47.164)"/>
+      <path id="Path_20" data-name="Path 20" d="M18.7,0a2.522,2.522,0,0,0-.355.025A25,25,0,0,0,.3,11.717a2.5,2.5,0,0,0,4.392,2.389h0a19.955,19.955,0,0,1,14.35-9.131A2.5,2.5,0,0,0,18.7,0Z" transform="matrix(0.53, 0.848, -0.848, 0.53, 70.447, 39)"/>
+      <path id="Path_21" data-name="Path 21" d="M1.355,57.144c7.747-4.088,16.84-2.9,24.132,0S22.861,47.057,13.215,46.856-6.393,61.233,1.355,57.144Z" transform="translate(36.417 23.291)"/>
+      <path id="Path_4" data-name="Path 4" d="M50,7.5A42.5,42.5,0,1,0,92.5,50,42.548,42.548,0,0,0,50,7.5M50,0A50,50,0,1,1,0,50,50,50,0,0,1,50,0Z"/>
+      <path id="Path_30" data-name="Path 30" d="M13.035,0S28.887,29.6,25.717,39.473s-22.193,9.868-25.363,0S13.035,0,13.035,0Z" transform="translate(8.346)"/>
+    </g>
+  </g>
+</svg>

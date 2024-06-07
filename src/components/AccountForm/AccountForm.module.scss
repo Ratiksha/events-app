@@ -1,0 +1,46 @@
+@import '../../../styles/colors';
+
+.accountFormContainer {
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    .accountForm {
+     background-color: $white;
+     padding: 30px;
+     border-radius: 10px;
+     width: 450px;
+     @media (max-width: 768px) {
+      width: 100%;
+    }
+     h2 {
+      margin-bottom: 35px;
+      margin-top: 0;
+     }
+      .accountFormField {
+        margin-bottom: 18px;
+        label {
+          display: block;
+          margin-bottom: 5px;
+          font-weight: 600;
+        }
+        input {
+          background-color: lighten($gray, 35%);
+          color: darken($gray, 10%);
+        }
+      }
+      button {
+        margin-top: 10px;
+        font-size: inherit;
+      }
+      .accountFormFooter {
+        text-align: center;
+        font-weight: 600;
+        margin-bottom: 0;
+        span {
+          cursor: pointer;
+          color: $link-color;
+          text-transform: capitalize;
+        }
+      }
+    }
+  }

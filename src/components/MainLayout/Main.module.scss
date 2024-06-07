@@ -1,0 +1,16 @@
+.main {
+    width: 100%;
+    max-width: 1440px;
+    margin: auto;
+    padding: 30px;
+    flex: 1;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    >div {
+        width: 100%;
+    }
+    @media (max-width: 768px) {
+        padding: 0 30px 30px;
+    }
+  }

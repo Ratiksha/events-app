@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-user">
+      <rect width="20" height="20"/>
+    </clipPath>
+  </defs>
+  <g id="user" clip-path="url(#clip-user)">
+    <g id="Group_275" data-name="Group 275" transform="translate(-156 -866.5)">
+      <path id="Ellipse_20" data-name="Ellipse 20" d="M10,.952A8.829,8.829,0,0,0,.952,9.524,8.829,8.829,0,0,0,10,18.1a8.829,8.829,0,0,0,9.048-8.571A8.829,8.829,0,0,0,10,.952M10,0A9.771,9.771,0,0,1,20,9.524a9.771,9.771,0,0,1-10,9.524A9.771,9.771,0,0,1,0,9.524,9.771,9.771,0,0,1,10,0Z" transform="translate(156 867)"/>
+      <g id="Group_273" data-name="Group 273" transform="translate(159.81 870.81)">
+        <path id="Intersection_1" data-name="Intersection 1" d="M0,4.431C.065,2.674,1.478,1.026,3.7.161A4.113,4.113,0,0,0,6.932,1.45,4.043,4.043,0,0,0,9.733,0a6.133,6.133,0,0,1,2.5,1.537,3.782,3.782,0,0,1,1.074,2.331q0,.067.007.133A10.234,10.234,0,0,1,6.4,6.64,10.265,10.265,0,0,1,0,4.431Z" transform="translate(0 7.924)"/>
+        <ellipse id="Ellipse_25" data-name="Ellipse 25" cx="3.81" cy="4.286" rx="3.81" ry="4.286" transform="matrix(0.998, -0.07, 0.07, 0.998, 2.495, 0.531)"/>
+      </g>
+    </g>
+  </g>
+</svg>

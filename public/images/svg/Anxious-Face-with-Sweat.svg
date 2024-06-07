@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" viewBox="0 0 100 100">
+  <defs>
+    <clipPath id="clip-Anxious-Face-with-Sweat">
+      <rect width="100" height="100"/>
+    </clipPath>
+  </defs>
+  <g id="Anxious-Face-with-Sweat" clip-path="url(#clip-Anxious-Face-with-Sweat)">
+    <g id="Group_85" data-name="Group 85">
+      <path id="Path_4" data-name="Path 4" d="M50,7.5A42.5,42.5,0,1,0,92.5,50,42.548,42.548,0,0,0,50,7.5M50,0A50,50,0,1,1,0,50,50,50,0,0,1,50,0Z"/>
+      <g id="Group_84" data-name="Group 84" transform="translate(10.695 20.498)">
+        <path id="Path_30" data-name="Path 30" d="M11.586,0s14.1,26.329,11.279,35.106-19.738,8.776-22.558,0S11.586,0,11.586,0Z" transform="translate(-8.781 31.612)"/>
+        <g id="Group_83" data-name="Group 83">
+          <g id="Group_82" data-name="Group 82">
+            <g id="Group_36" data-name="Group 36" transform="translate(19.305 29.502)">
+              <ellipse id="Ellipse_4" data-name="Ellipse 4" cx="5.638" cy="5.958" rx="5.638" ry="5.958"/>
+              <ellipse id="Ellipse_5" data-name="Ellipse 5" cx="5.638" cy="5.958" rx="5.638" ry="5.958" transform="translate(28.703)"/>
+            </g>
+            <g id="Group_17" data-name="Group 17">
+              <path id="Path_19" data-name="Path 19" d="M2.5,15.407a2.5,2.5,0,0,1-2.2-3.69A25,25,0,0,1,18.34.025a2.5,2.5,0,1,1,.7,4.95A20.065,20.065,0,0,0,4.7,14.1,2.5,2.5,0,0,1,2.5,15.407Z" transform="matrix(-0.602, -0.799, 0.799, -0.602, 66.306, 26.197)"/>
+              <path id="Path_20" data-name="Path 20" d="M18.7,15.407a2.522,2.522,0,0,1-.355-.025A25,25,0,0,1,.3,3.69,2.5,2.5,0,0,1,4.694,1.3h0a19.955,19.955,0,0,0,14.35,9.131,2.5,2.5,0,0,1-.349,4.975Z" transform="matrix(0.602, -0.799, 0.799, 0.602, 0, 16.925)"/>
+            </g>
+          </g>
+          <path id="Path_79" data-name="Path 79" d="M1687.456,576.845c2,2.625,8.214,0,15.833,0s12.849,2.878,14.646,0c3.436-5.5-7.026-13.87-14.646-13.87S1683.272,571.342,1687.456,576.845Z" transform="translate(-1663.31 -513.91)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,147 @@
+@import '../../../styles/colors';
+
+.iconContent {
+    display: flex;
+    flex-direction: row;
+
+    .icon {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: space-evenly;
+      height: 100%;
+      width: 70%;
+
+      img {
+        max-width: 100%;
+      }
+  
+      .tags {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        margin-top: 20px;
+        justify-content: center;
+        span {
+          border: 1px solid lighten($gray, 20%);
+          padding: 5px 15px;
+          border-radius: 5px;
+          margin: 5px;
+          cursor: pointer;
+          &:hover {
+            background: $primary-color;
+          }
+        }
+      }
+    } 
+
+    .content {
+      width: 30%;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-evenly;
+      .iconType {
+        text-transform: capitalize;
+        vertical-align: middle;
+        display: flex;
+        .leftIcon {
+          display: flex;
+          img {
+            margin-right: 8px;
+          }
+        }
+        .separator {
+          margin: 0 15px
+        }
+        .price {
+          color: $accent-color;
+          font-weight: 600;
+          letter-spacing: 1px;
+        }
+      }
+      .verticalGoogleAd {
+        height: 200px;
+        background: $primary-color;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 5px;
+      }
+      .buttonsWrapper {
+        display: flex;
+        justify-content: space-between;
+        // margin-top: 20px;
+        button {
+          &:nth-of-type(1) {
+            margin-right: 10px;
+          }
+        }
+      }
+      
+    }
+  }
+
+  .horizontalGoogleAd {
+    height: 150px;
+    background: $primary-color;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+  }
+
+  @media (max-width: 768px) {
+    .iconContent {
+        flex-direction: column;
+    .icon {
+        width: 100%;
+        img {
+            width: 200px;
+        }
+        .tags {
+            margin-bottom: 20px;
+            margin-top: 0;
+            span{
+                padding: 5px 10px;
+                font-size: 12px;
+            }
+        } 
+    }
+    .content {
+        width: 100%;
+    }
+    }
+    .horizontalGoogleAd, .verticalGoogleAd {
+        margin: 20px 0;
+        height: 150px;
+    }
+    .buttonsWrapper {
+      margin-top: 0 !important;
+    }
+}
+
+@media (min-width:820px) and (max-width:1024px) {
+  .iconContent {
+    .icon {
+      width: 58%;
+      .tags{
+        margin-top: 0;
+      }
+    }
+    .content {
+      width: 42%;
+    }
+  }
+}
+
+@media (max-width: 1024px) {
+  .iconContent {
+  .icon {
+      img {
+          width: 250px;
+          height: 250px;
+          margin: 20px 0;
+      }
+    }
+}
+}

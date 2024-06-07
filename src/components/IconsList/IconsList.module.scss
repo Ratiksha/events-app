@@ -1,0 +1,51 @@
+@import '../../../styles/colors';
+
+.iconsWrapper {
+    min-height: 462px;
+    position: relative;
+    &.bgWhite {
+      background-color: $white;
+      border-radius: 10px;
+    }
+    .iconsContainer {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+      
+        .icon {
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          background-color: $white;
+          margin: 7px;
+          padding: 10px;
+          border-radius: 10px;
+          cursor: pointer;
+          flex-direction: column;
+          width: 140px;
+          height: 140px;
+          position: relative;
+          @media (max-width: 370px) {
+            width: 116px;
+          }
+          &:hover {
+            background-color: $secondary-color;
+          }
+      
+          .iconType {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            h4{
+              font-size: 25px;
+            }
+          }
+      
+          p {
+            font-size: 11px;
+            text-align: center;
+            letter-spacing: 0.2px;
+          }
+        }
+      }
+  }

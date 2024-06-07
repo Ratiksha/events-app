@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" viewBox="0 0 100 100">
+  <defs>
+    <clipPath id="clip-Grimacing-Face">
+      <rect width="100" height="100"/>
+    </clipPath>
+  </defs>
+  <g id="Grimacing-Face" clip-path="url(#clip-Grimacing-Face)">
+    <g id="Group_156" data-name="Group 156">
+      <g id="Group_88" data-name="Group 88" transform="translate(-1)">
+        <g id="Group_91" data-name="Group 91">
+          <path id="Path_4" data-name="Path 4" d="M50,7.5A42.5,42.5,0,1,0,92.5,50,42.548,42.548,0,0,0,50,7.5M50,0A50,50,0,1,1,0,50,50,50,0,0,1,50,0Z" transform="translate(1)"/>
+        </g>
+      </g>
+      <g id="Group_155" data-name="Group 155" transform="translate(-1)">
+        <g id="Group_89" data-name="Group 89" transform="translate(-0.183)">
+          <g id="Group_36" data-name="Group 36" transform="translate(22.783 26)">
+            <ellipse id="Ellipse_4" data-name="Ellipse 4" cx="6.154" cy="6.502" rx="6.154" ry="6.502" transform="translate(6.4 8)"/>
+            <ellipse id="Ellipse_5" data-name="Ellipse 5" cx="6.154" cy="6.502" rx="6.154" ry="6.502" transform="translate(37.727 8)"/>
+          </g>
+        </g>
+        <g id="Group_154" data-name="Group 154">
+          <path id="Rectangle_1" data-name="Rectangle 1" d="M11,4a7,7,0,0,0,0,14H54A7,7,0,0,0,54,4H11m0-4H54a11,11,0,0,1,0,22H11A11,11,0,0,1,11,0Z" transform="translate(18 56)"/>
+          <path id="Path_64" data-name="Path 64" d="M63.838,2H0V-2H63.838Z" transform="translate(18.515 66.439)"/>
+          <path id="Line_2" data-name="Line 2" d="M2,18.564H-2V0H2Z" transform="translate(50.949 56.605)"/>
+          <path id="Line_3" data-name="Line 3" d="M2,18.564H-2V0H2Z" transform="translate(62.275 56.605)"/>
+          <path id="Line_4" data-name="Line 4" d="M2,18.564H-2V0H2Z" transform="translate(72.571 56.605)"/>
+          <path id="Line_5" data-name="Line 5" d="M2,18.564H-2V0H2Z" transform="translate(40.652 56.605)"/>
+          <path id="Line_6" data-name="Line 6" d="M2,18.564H-2V0H2Z" transform="translate(29.326 56.605)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,31 @@
+@import '../../../styles/colors';
+
+.navbar {
+    display: flex;
+    text-decoration: none;
+    list-style: none;
+    gap: 15px;
+    padding: 0;
+    li {
+      font-weight: 600;
+      font-size: 16px;
+      img {
+        vertical-align: -webkit-baseline-middle;
+        margin-right: 10px;
+      }
+      .cart {
+        cursor: pointer;
+        .cartItems {
+          position: absolute;
+          width: 28px;
+          height: 28px;
+          border: 3px solid $primary-color;
+          border-radius: 50%;
+          background-color: $secondary-color;
+          margin-left: -22px;
+          margin-top: -10px;
+          text-align: center;
+        }
+      }
+    }
+  }

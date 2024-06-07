@@ -1,0 +1,12 @@
+@import '../../../styles/colors';
+
+.cartEmpty {
+    width: 100%;
+    padding: 0 25px;
+    min-height: 270px;
+    .subtext {
+      font-size: 14px;
+      color: $gray;
+      font-weight: 500;
+    }
+  }

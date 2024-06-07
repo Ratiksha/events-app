@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" viewBox="0 0 100 100">
+  <defs>
+    <clipPath id="clip-Pensive-Face">
+      <rect width="100" height="100"/>
+    </clipPath>
+  </defs>
+  <g id="Pensive-Face" clip-path="url(#clip-Pensive-Face)">
+    <g id="Group_160" data-name="Group 160">
+      <path id="Path_4" data-name="Path 4" d="M50,7.5A42.5,42.5,0,1,0,92.5,50,42.548,42.548,0,0,0,50,7.5M50,0A50,50,0,1,1,0,50,50,50,0,0,1,50,0Z"/>
+      <g id="Group_159" data-name="Group 159">
+        <path id="Path_28" data-name="Path 28" d="M-21.981,93.82H-42.134a2.5,2.5,0,0,1-2.5-2.5,2.5,2.5,0,0,1,2.5-2.5h20.153a2.5,2.5,0,0,1,2.5,2.5A2.5,2.5,0,0,1-21.981,93.82Z" transform="translate(82.634 -11.605)"/>
+        <g id="Group_62" data-name="Group 62" transform="translate(17 56)">
+          <g id="Group_11" data-name="Group 11" transform="translate(0)">
+            <path id="Path_14" data-name="Path 14" d="M1.066,47.466c6.942,3.458,15.089,2.454,21.623,0s-2.352,8.532-11,8.7S-5.875,44.008,1.066,47.466Z" transform="translate(42.818 -46.854)"/>
+            <path id="Path_18" data-name="Path 18" d="M1.066,47.466c6.942,3.458,15.089,2.454,21.623,0s-2.352,8.532-11,8.7S-5.875,44.008,1.066,47.466Z" transform="translate(1.417 -46.854)"/>
+          </g>
+        </g>
+        <g id="Group_17" data-name="Group 17" transform="translate(11 25.498)">
+          <path id="Path_19" data-name="Path 19" d="M2.5,15.407a2.5,2.5,0,0,1-2.2-3.69A25,25,0,0,1,18.34.025a2.5,2.5,0,1,1,.7,4.95A20.065,20.065,0,0,0,4.7,14.1,2.5,2.5,0,0,1,2.5,15.407Z" transform="matrix(-0.602, -0.799, 0.799, -0.602, 66.306, 26.197)"/>
+          <path id="Path_20" data-name="Path 20" d="M18.7,15.407a2.522,2.522,0,0,1-.355-.025A25,25,0,0,1,.3,3.69,2.5,2.5,0,0,1,4.694,1.3h0a19.955,19.955,0,0,0,14.35,9.131,2.5,2.5,0,0,1-.349,4.975Z" transform="matrix(0.602, -0.799, 0.799, 0.602, 0, 16.925)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

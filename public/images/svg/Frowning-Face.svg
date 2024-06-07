@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" viewBox="0 0 100 100">
+  <defs>
+    <clipPath id="clip-Frowning-Face">
+      <rect width="100" height="100"/>
+    </clipPath>
+  </defs>
+  <g id="Frowning-Face" clip-path="url(#clip-Frowning-Face)">
+    <g id="Group_215" data-name="Group 215">
+      <path id="Path_4" data-name="Path 4" d="M50,7.5A42.5,42.5,0,1,0,92.5,50,42.548,42.548,0,0,0,50,7.5M50,0A50,50,0,1,1,0,50,50,50,0,0,1,50,0Z"/>
+      <g id="Group_214" data-name="Group 214">
+        <g id="Group_89" data-name="Group 89" transform="translate(-1.183)">
+          <g id="Group_36" data-name="Group 36" transform="translate(22.783 26)">
+            <ellipse id="Ellipse_4" data-name="Ellipse 4" cx="6.154" cy="6.502" rx="6.154" ry="6.502" transform="translate(6.4 8)"/>
+            <ellipse id="Ellipse_5" data-name="Ellipse 5" cx="6.154" cy="6.502" rx="6.154" ry="6.502" transform="translate(37.727 8)"/>
+          </g>
+        </g>
+        <path id="Path_80" data-name="Path 80" d="M846.2,548.473a2.5,2.5,0,0,1-2.156-1.231c-.09-.151-9.2-15.331-20.309-15.331-11.237,0-22.154,15.343-22.263,15.5a2.5,2.5,0,0,1-4.093-2.871,59.968,59.968,0,0,1,7.744-8.683,41.473,41.473,0,0,1,8.268-6.055,21.836,21.836,0,0,1,10.344-2.888,20.25,20.25,0,0,1,10.113,2.92,35.7,35.7,0,0,1,7.672,6.117,51.365,51.365,0,0,1,6.831,8.754,2.5,2.5,0,0,1-2.151,3.77Z" transform="translate(-772.93 -472)"/>
+      </g>
+    </g>
+  </g>
+</svg>

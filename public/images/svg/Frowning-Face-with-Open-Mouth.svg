@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" viewBox="0 0 100 100">
+  <defs>
+    <clipPath id="clip-Frowning-Face-with-Open-Mouth">
+      <rect width="100" height="100"/>
+    </clipPath>
+  </defs>
+  <g id="Frowning-Face-with-Open-Mouth" clip-path="url(#clip-Frowning-Face-with-Open-Mouth)">
+    <g id="Group_205" data-name="Group 205">
+      <path id="Path_4" data-name="Path 4" d="M50,7.5A42.5,42.5,0,1,0,92.5,50,42.548,42.548,0,0,0,50,7.5M50,0A50,50,0,1,1,0,50,50,50,0,0,1,50,0Z"/>
+      <g id="Group_204" data-name="Group 204">
+        <g id="Group_89" data-name="Group 89" transform="translate(25 40.995)">
+          <g id="Group_36" data-name="Group 36" transform="translate(0 0)">
+            <ellipse id="Ellipse_4" data-name="Ellipse 4" cx="6.154" cy="8.002" rx="6.154" ry="8.002"/>
+            <ellipse id="Ellipse_5" data-name="Ellipse 5" cx="6.154" cy="8.002" rx="6.154" ry="8.002" transform="translate(38.382)"/>
+          </g>
+        </g>
+        <path id="Path_79" data-name="Path 79" d="M1687.456,576.845c2,2.625,8.214,0,15.833,0s12.849,2.878,14.646,0c3.436-5.5-7.026-13.87-14.646-13.87S1683.272,571.342,1687.456,576.845Z" transform="translate(-1652.615 -495.411)"/>
+      </g>
+    </g>
+  </g>
+</svg>

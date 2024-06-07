@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" viewBox="0 0 100 100">
+  <defs>
+    <clipPath id="clip-Expressionless-Face">
+      <rect width="100" height="100"/>
+    </clipPath>
+  </defs>
+  <g id="Expressionless-Face" clip-path="url(#clip-Expressionless-Face)">
+    <g id="Group_138" data-name="Group 138">
+      <path id="Path_4" data-name="Path 4" d="M50,7.5A42.5,42.5,0,1,0,92.5,50,42.548,42.548,0,0,0,50,7.5M50,0A50,50,0,1,1,0,50,50,50,0,0,1,50,0Z"/>
+      <g id="Group_137" data-name="Group 137">
+        <path id="Path_28" data-name="Path 28" d="M1.616,92.32h-45.75a3,3,0,0,1-3-3,3,3,0,0,1,3-3H1.616a3,3,0,0,1,0,6Z" transform="translate(71.634 -24.377)"/>
+        <g id="Group_136" data-name="Group 136" transform="translate(-0.454)">
+          <path id="Path_58" data-name="Path 58" d="M-28.669,92.32H-44.134a3,3,0,0,1-3-3,3,3,0,0,1,3-3h15.465a3,3,0,0,1,3,3A3,3,0,0,1-28.669,92.32Z" transform="translate(102.416 -51.377)"/>
+          <path id="Path_59" data-name="Path 59" d="M-28.669,92.32H-44.134a3,3,0,0,1-3-3,3,3,0,0,1,3-3h15.465a3,3,0,0,1,3,3A3,3,0,0,1-28.669,92.32Z" transform="translate(70.589 -51.377)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

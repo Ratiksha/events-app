@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" viewBox="0 0 100 100">
+  <defs>
+    <clipPath id="clip-Face-with-Diagonal-Mouth">
+      <rect width="100" height="100"/>
+    </clipPath>
+  </defs>
+  <g id="Face-with-Diagonal-Mouth" clip-path="url(#clip-Face-with-Diagonal-Mouth)">
+    <g id="Group_222" data-name="Group 222">
+      <path id="Path_4" data-name="Path 4" d="M50,7.5A42.5,42.5,0,1,0,92.5,50,42.548,42.548,0,0,0,50,7.5M50,0A50,50,0,1,1,0,50,50,50,0,0,1,50,0Z"/>
+      <g id="Group_221" data-name="Group 221">
+        <g id="Group_216" data-name="Group 216">
+          <g id="Group_209" data-name="Group 209" transform="translate(-1 -1)">
+            <g id="Group_134" data-name="Group 134">
+              <g id="Group_133" data-name="Group 133">
+                <g id="Group_89" data-name="Group 89" transform="translate(-2.183 -2.332)">
+                  <g id="Group_36" data-name="Group 36" transform="translate(29.183 34)">
+                    <ellipse id="Ellipse_4" data-name="Ellipse 4" cx="6.154" cy="9.166" rx="6.154" ry="9.166"/>
+                    <ellipse id="Ellipse_5" data-name="Ellipse 5" cx="6.154" cy="9.166" rx="6.154" ry="9.166" transform="translate(34.327)"/>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <path id="Path_81" data-name="Path 81" d="M408.845,569.832l-1.69-4.706,49.233-17.681,1.69,4.706Z" transform="translate(-382 -491)"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" viewBox="0 0 100 100">
+  <defs>
+    <clipPath id="clip-Smiling-Face-with-Heart-Eyes">
+      <rect width="100" height="100"/>
+    </clipPath>
+  </defs>
+  <g id="Smiling-Face-with-Heart-Eyes" clip-path="url(#clip-Smiling-Face-with-Heart-Eyes)">
+    <g id="Group_3" data-name="Group 3">
+      <path id="Path_4" data-name="Path 4" d="M50,7.5A42.5,42.5,0,1,0,92.5,50,42.548,42.548,0,0,0,50,7.5M50,0A50,50,0,1,1,0,50,50,50,0,0,1,50,0Z"/>
+      <g id="Group_2" data-name="Group 2" transform="translate(12 26)">
+        <g id="Group_1" data-name="Group 1" transform="translate(0 0)">
+          <path id="Path_1" data-name="Path 1" d="M16.221,29.2C7.5,23.368,2.925,18.064,1.049,13.625-3.977,1.73,10.378-3.958,16.221,3.064c5.843-7.022,20.2-1.333,15.172,10.562C29.517,18.064,24.943,23.368,16.221,29.2Z" transform="translate(0 9.485) rotate(-17)"/>
+          <path id="Path_2" data-name="Path 2" d="M16.227,29.192C7.5,23.363,2.926,18.061,1.049,13.623-3.978,1.73,10.382-3.958,16.227,3.063c5.845-7.021,20.2-1.333,15.177,10.56C29.527,18.061,24.952,23.363,16.227,29.192Z" transform="matrix(0.966, 0.259, -0.259, 0.966, 44.929, 0)"/>
+        </g>
+        <path id="Path_3" data-name="Path 3" d="M-48.44,57.039c0-4.119,12.908,4.092,25.351,4.092S1.332,52.92,1.332,57.039-4.88,76.921-23.089,77.608-48.44,61.158-48.44,57.039Z" transform="translate(63.114 -14.96)"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" viewBox="0 0 100 100">
+  <defs>
+    <clipPath id="clip-Confounded-Face">
+      <rect width="100" height="100"/>
+    </clipPath>
+  </defs>
+  <g id="Confounded-Face" clip-path="url(#clip-Confounded-Face)">
+    <g id="Group_103" data-name="Group 103">
+      <path id="Path_4" data-name="Path 4" d="M50,7.5A42.5,42.5,0,1,0,92.5,50,42.548,42.548,0,0,0,50,7.5M50,0A50,50,0,1,1,0,50,50,50,0,0,1,50,0Z"/>
+      <g id="Group_102" data-name="Group 102" transform="translate(0 15)">
+        <g id="Group_101" data-name="Group 101" transform="translate(0.254)">
+          <path id="Path_24" data-name="Path 24" d="M2.677,17.41C9.7,7.056,11.83,5.9,19.045,17.41S17.264.343,10.721,0-4.348,27.765,2.677,17.41Z" transform="translate(43.889 28.958) rotate(90)"/>
+          <path id="Path_50" data-name="Path 50" d="M2.635,2.733c7.025,10.354,9.153,11.515,16.368,0S17.222,19.8,10.679,20.14-4.39-7.622,2.635,2.733Z" transform="translate(75.889 29) rotate(90)"/>
+        </g>
+      </g>
+    </g>
+    <path id="Path_85" data-name="Path 85" d="M414.731,719.985a1.994,1.994,0,0,1-.983-.259l-7.776-4.395a2,2,0,0,1,1.968-3.482l6.334,3.58,6.368-7.526a2,2,0,0,1,2.862-.2l8.469,7.593,8.469-7.593a2,2,0,0,1,2.8.133l6.995,7.577,5.7-3.526a2,2,0,1,1,2.105,3.4l-7.1,4.4a2,2,0,0,1-2.522-.344L441.646,712l-8.336,7.474a2,2,0,0,1-2.67,0l-8.272-7.416-6.108,7.219A2,2,0,0,1,414.731,719.985Z" transform="translate(-382 -637)"/>
+  </g>
+</svg>

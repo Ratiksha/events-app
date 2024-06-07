@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" viewBox="0 0 100 100">
+  <defs>
+    <clipPath id="clip-Loudly-Crying-Face">
+      <rect width="100" height="100"/>
+    </clipPath>
+  </defs>
+  <g id="Loudly-Crying-Face" clip-path="url(#clip-Loudly-Crying-Face)">
+    <g id="Group_9" data-name="Group 9" transform="translate(-51 1.815)">
+      <path id="Path_4" data-name="Path 4" d="M50,7.5A42.5,42.5,0,1,0,92.5,50,42.548,42.548,0,0,0,50,7.5M50,0A50,50,0,1,1,0,50,50,50,0,0,1,50,0Z" transform="translate(51 -1.815)"/>
+      <g id="Group_8" data-name="Group 8" transform="translate(64.371 24.916)">
+        <g id="Group_7" data-name="Group 7" transform="translate(0 0)">
+          <g id="Group_5" data-name="Group 5" transform="translate(0 0)">
+            <path id="Path_5" data-name="Path 5" d="M2.5,15.292A2.5,2.5,0,0,1,.3,11.6,24.75,24.75,0,0,1,18.162.025a2.5,2.5,0,0,1,.7,4.95A19.815,19.815,0,0,0,4.7,13.981,2.5,2.5,0,0,1,2.5,15.292Z" transform="matrix(0.995, -0.105, 0.105, 0.995, 0, 2.197)"/>
+            <path id="Path_15" data-name="Path 15" d="M18.517,15.292a2.52,2.52,0,0,1-.355-.025A24.75,24.75,0,0,1,.3,3.69,2.5,2.5,0,0,1,4.7,1.307a19.717,19.717,0,0,0,14.169,9.01,2.5,2.5,0,0,1-.349,4.975Z" transform="matrix(-0.995, -0.105, 0.105, -0.995, 70.049, 17.405)"/>
+          </g>
+          <g id="Group_6" data-name="Group 6" transform="translate(8.38 10.218)">
+            <path id="Union_1" data-name="Union 1" d="M16.2,8c-5.531-.241-12.376,0-14.957.783-2.067.624-1.422-1.861.914-4.345A13.515,13.515,0,0,1,11.97,0c6.79.133,12.115,6.063,12.285,8.152h.006l0,.085c0,.024,0,.047,0,.069l-.813,40.338L16.2,56.511Z" transform="translate(31.426 0)"/>
+            <path id="Union_2" data-name="Union 2" d="M0,47.172V8.228c-.03-.821.762-2.306,2.158-3.791A13.5,13.5,0,0,1,11.962,0c8.719.17,15.018,9.908,11.091,8.78-2.575-.74-9.45-1.024-14.993-.795v47Z" transform="translate(0 0)"/>
+          </g>
+        </g>
+        <g id="Group_4" data-name="Group 4" transform="translate(25.484 27.844)">
+          <path id="Ellipse_1" data-name="Ellipse 1" d="M10.889,5C8.1,5,5,8.909,5,14.519s3.1,9.519,5.889,9.519,5.889-3.909,5.889-9.519S13.675,5,10.889,5m0-5C16.9,0,21.779,6.5,21.779,14.519S16.9,29.039,10.889,29.039,0,22.538,0,14.519,4.875,0,10.889,0Z" transform="translate(0 0)"/>
+          <path id="Path_13" data-name="Path 13" d="M10.889,0C16.9,0,21.779,6.5,21.779,14.519c0,1.949-.953.272-4.336,1.31H4.436C2.463,15.326,0,16.021,0,14.519,0,10.255,4.875,0,10.889,0Z" transform="translate(21.779 29.039) rotate(180)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,27 @@
+@import '../../../styles/colors';
+
+.successWrapper {
+    text-align: center;    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
+  
+    h2 {
+      font-size: 30px;
+      margin-bottom: 0;
+      margin: 10px 0;
+    }
+    p{
+      margin: 0 0 20px;
+      &.paymentSuccessMsg {
+        font-weight: 600;
+      }
+      &.downloadMsg {
+        color: $gray;
+      }
+    }
+    button {
+      min-width: 250px;
+    }
+  }

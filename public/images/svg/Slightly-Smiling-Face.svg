@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" viewBox="0 0 100 100">
+  <defs>
+    <clipPath id="clip-Slightly-Smiling-Face">
+      <rect width="100" height="100"/>
+    </clipPath>
+  </defs>
+  <g id="Slightly-Smiling-Face" clip-path="url(#clip-Slightly-Smiling-Face)">
+    <g id="Group_88" data-name="Group 88" transform="translate(-1)">
+      <g id="Group_91" data-name="Group 91">
+        <path id="Path_4" data-name="Path 4" d="M50,7.5A42.5,42.5,0,1,0,92.5,50,42.548,42.548,0,0,0,50,7.5M50,0A50,50,0,1,1,0,50,50,50,0,0,1,50,0Z" transform="translate(1)"/>
+        <g id="Group_90" data-name="Group 90" transform="translate(0.5)">
+          <g id="Group_89" data-name="Group 89">
+            <g id="Group_36" data-name="Group 36" transform="translate(22.783 26)">
+              <ellipse id="Ellipse_4" data-name="Ellipse 4" cx="6.154" cy="6.502" rx="6.154" ry="6.502" transform="translate(6.4 8)"/>
+              <ellipse id="Ellipse_5" data-name="Ellipse 5" cx="6.154" cy="6.502" rx="6.154" ry="6.502" transform="translate(37.727 8)"/>
+            </g>
+          </g>
+          <path id="Path_48" data-name="Path 48" d="M49.973,82.671a28.232,28.232,0,0,1-10.5-2.09,44.241,44.241,0,0,1-13.906-9.363A2.5,2.5,0,0,1,29.02,67.6c7.534,7.2,15.117,10.568,22.538,10.008,10.778-.813,17.709-9.639,17.777-9.728a2.5,2.5,0,1,1,3.958,3.055,32.656,32.656,0,0,1-5.752,5.474,32.981,32.981,0,0,1-6.671,3.93A27.528,27.528,0,0,1,51.934,82.6Q50.956,82.671,49.973,82.671Z" transform="translate(1.207 -3)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

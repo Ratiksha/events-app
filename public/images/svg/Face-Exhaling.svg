@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" viewBox="0 0 100 100">
+  <defs>
+    <clipPath id="clip-Face-Exhaling">
+      <rect width="100" height="100"/>
+    </clipPath>
+  </defs>
+  <g id="Face-Exhaling" clip-path="url(#clip-Face-Exhaling)">
+    <path id="Path_4" data-name="Path 4" d="M50,7.5A42.5,42.5,0,1,0,92.5,50,42.548,42.548,0,0,0,50,7.5M50,0A50,50,0,1,1,0,50,50,50,0,0,1,50,0Z"/>
+    <g id="Group_157" data-name="Group 157" transform="translate(-1.228)">
+      <path id="Path_18" data-name="Path 18" d="M1.066,47.466c6.942,3.458,15.089,2.454,21.623,0s-2.352,8.532-11,8.7S-5.875,44.008,1.066,47.466Z" transform="matrix(0.921, -0.391, 0.391, 0.921, 3.225, 1.838)"/>
+      <path id="Path_20" data-name="Path 20" d="M18.7,15.407a2.522,2.522,0,0,1-.355-.025A25,25,0,0,1,.3,3.69,2.5,2.5,0,0,1,4.694,1.3h0a19.955,19.955,0,0,0,14.35,9.131,2.5,2.5,0,0,1-.349,4.975Z" transform="translate(22.294 34.412) rotate(-71)"/>
+    </g>
+    <g id="Group_158" data-name="Group 158" transform="translate(52.772 14.375)">
+      <path id="Path_18-2" data-name="Path 18" d="M2.484,8.7c6.942-3.458,15.089-2.454,21.623,0S21.754.172,13.111,0-4.458,12.162,2.484,8.7Z" transform="matrix(-0.921, -0.391, 0.391, -0.921, 24.267, 39.722)"/>
+      <path id="Path_20-2" data-name="Path 20" d="M18.7,0a2.522,2.522,0,0,0-.355.025A25,25,0,0,0,.3,11.717a2.5,2.5,0,0,0,4.392,2.389h0a19.955,19.955,0,0,1,14.35-9.131A2.5,2.5,0,0,0,18.7,0Z" transform="translate(11.274 25.054) rotate(-109)"/>
+    </g>
+    <ellipse id="Ellipse_4" data-name="Ellipse 4" cx="8.154" cy="8.502" rx="8.154" ry="8.502" transform="translate(42 65)"/>
+    <path id="Path_39" data-name="Path 39" transform="translate(32 38)" fill="#707070"/>
+  </g>
+</svg>

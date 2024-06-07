@@ -1,0 +1,88 @@
+@import '../../../styles/colors';
+.paymentHistoryWrapper {
+    width: 100%;
+    .caption {
+        font-size: 1.5em;
+        margin: .5em 0 .75em;
+        font-weight: 600;
+    }
+    
+    .tableWrapper {
+        min-height: 400px;
+        background-color: $white;
+        position: relative;
+        .historyTable {
+            width: 100%;
+            .emptyRecords {
+                text-align: center;
+                position: absolute;
+                left: 50%;
+                top: 55%;
+                transform: translate(-50%, -45%);
+            }
+            thead {
+                background-color: $gray-light
+            }
+            tbody tr td, thead tr th {
+                text-align: left;
+                padding: 15px;
+                font-size: 14px;
+            }
+            tbody tr {
+                td {
+                    img {
+                        margin: 5px;
+                    }
+        
+                    .currency {
+                        text-transform: uppercase;
+                    }
+                }
+                &:nth-child(even) {
+                    background-color: lighten($gray-light, 12%);
+                }
+                &:nth-child(odd) {
+                    background-color: $white;
+                }
+            }
+            
+        }
+    }
+}
+
+
+@media screen and (max-width: 768px) {
+    .tableWrapper {
+        min-height: auto !important;
+        .historyTable {
+        border: 0;
+        thead {
+            border: none;
+            clip: rect(0 0 0 0);
+            height: 1px;
+            margin: -1px;
+            overflow: hidden;
+            padding: 0;
+            position: absolute;
+            width: 1px;
+        }
+        tr {
+            display: block;
+            td {
+                border-bottom: 1px solid $primary-color;
+                display: block;
+                font-size: .8em !important;
+                text-align: right !important;
+                &:before {
+                    content: attr(data-label);
+                    float: left;
+                    font-weight: bold;
+                }
+                &:last-child {
+                    border-bottom: 0;
+                }
+            }
+        }
+        }
+    }
+  }

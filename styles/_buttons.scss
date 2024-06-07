@@ -1,0 +1,30 @@
+@import './colors';
+
+.btn {
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    border-radius: 8px;
+    font-weight: 600;
+    min-width: 90px;
+    &:disabled {
+        cursor: not-allowed;
+    }
+}
+
+.btn-large {
+    padding: 14px 16px;
+    width: 100%;
+}
+
+.btn-primary {
+    background-color: $secondary-color;
+    color: $black;
+    &:hover {
+        background-color: darken($secondary-color, 12%);
+    }
+    &:disabled {
+        color: $gray;
+        background: $gray-background;
+    }
+}

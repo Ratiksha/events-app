@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" viewBox="0 0 100 100">
+  <defs>
+    <clipPath id="clip-Worried-Face">
+      <rect width="100" height="100"/>
+    </clipPath>
+  </defs>
+  <g id="Worried-Face" clip-path="url(#clip-Worried-Face)">
+    <g id="Group_220" data-name="Group 220">
+      <path id="Path_4" data-name="Path 4" d="M50,7.5A42.5,42.5,0,1,0,92.5,50,42.548,42.548,0,0,0,50,7.5M50,0A50,50,0,1,1,0,50,50,50,0,0,1,50,0Z"/>
+      <g id="Group_219" data-name="Group 219">
+        <g id="Group_206" data-name="Group 206" transform="translate(-0.675)">
+          <path id="Path_5" data-name="Path 5" d="M2.5,0A2.5,2.5,0,0,0,.3,3.69a24.75,24.75,0,0,0,17.86,11.577,2.5,2.5,0,0,0,.7-4.95A19.815,19.815,0,0,1,4.7,1.311,2.5,2.5,0,0,0,2.5,0Z" transform="translate(85.823 34.104) rotate(171)"/>
+          <path id="Path_5-2" data-name="Path 5" d="M2.5,15.292A2.5,2.5,0,0,1,.3,11.6,24.75,24.75,0,0,1,18.162.025a2.5,2.5,0,0,1,.7,4.95A19.815,19.815,0,0,0,4.7,13.981,2.5,2.5,0,0,1,2.5,15.292Z" transform="translate(17.067 19) rotate(9)"/>
+        </g>
+        <g id="Group_218" data-name="Group 218">
+          <g id="Group_211" data-name="Group 211" transform="translate(0.135)">
+            <g id="Group_134" data-name="Group 134" transform="translate(0 9)">
+              <g id="Group_133" data-name="Group 133" transform="translate(23.865 33.668)">
+                <g id="Group_89" data-name="Group 89">
+                  <g id="Group_36" data-name="Group 36">
+                    <ellipse id="Ellipse_4" data-name="Ellipse 4" cx="6.154" cy="6.413" rx="6.154" ry="6.413"/>
+                    <ellipse id="Ellipse_5" data-name="Ellipse 5" cx="6.154" cy="6.413" rx="6.154" ry="6.413" transform="translate(38.462)"/>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <path id="Path_29" data-name="Path 29" d="M35.328,61.042c-10.682-5.637-23.218-4-33.273,0s3.62-13.908,16.92-14.185S46.01,66.679,35.328,61.042Z" transform="translate(30.417 19.288)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

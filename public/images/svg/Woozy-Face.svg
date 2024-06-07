@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" viewBox="0 0 100 100">
+  <defs>
+    <clipPath id="clip-Woozy-Face">
+      <rect width="100" height="100"/>
+    </clipPath>
+  </defs>
+  <g id="Woozy-Face" clip-path="url(#clip-Woozy-Face)">
+    <g id="Group_192" data-name="Group 192">
+      <path id="Path_4" data-name="Path 4" d="M50,7.5A42.5,42.5,0,1,1,7.5,50,42.548,42.548,0,0,1,50,7.5M50,0a50,50,0,1,0,50,50A50,50,0,0,0,50,0Z"/>
+      <g id="Group_191" data-name="Group 191">
+        <g id="Group_190" data-name="Group 190">
+          <g id="Group_189" data-name="Group 189">
+            <path id="Path_5" data-name="Path 5" d="M2.5,0A2.5,2.5,0,0,0,.3,3.69a24.75,24.75,0,0,0,17.86,11.577,2.5,2.5,0,0,0,.7-4.95A19.815,19.815,0,0,1,4.7,1.311,2.5,2.5,0,0,0,2.5,0Z" transform="translate(75.793 24.897) rotate(151)"/>
+            <path id="Path_15" data-name="Path 15" d="M18.517,15.292a2.52,2.52,0,0,1-.355-.025A24.75,24.75,0,0,1,.3,3.69,2.5,2.5,0,0,1,4.7,1.307a19.717,19.717,0,0,0,14.169,9.01,2.5,2.5,0,0,1-.349,4.975Z" transform="translate(15.933 44.104) rotate(-54)"/>
+          </g>
+          <g id="Group_188" data-name="Group 188">
+            <path id="Path_18" data-name="Path 18" d="M18.084,47.466c-5.669,3.458-12.322,2.454-17.658,0s1.921,8.532,8.98,8.7S23.753,44.008,18.084,47.466Z" transform="translate(11.656 3.911) rotate(-13)"/>
+            <ellipse id="Ellipse_5" data-name="Ellipse 5" cx="5.638" cy="8.458" rx="5.638" ry="8.458" transform="translate(55.723 35.085)"/>
+          </g>
+        </g>
+        <path id="Path_75" data-name="Path 75" d="M1676.522,411.535c0-2.556,5.672,5.965,12.553,5.965s5.726-4.355,14.968-5.965,15.712,3.691,23.824,0,7.085-17.037,8.626-14.765,5.361,16.376-2.751,20.73-18.916-5.207-29.7-3.314-8.088,6.045-14.968,5.382S1676.522,414.09,1676.522,411.535Z" transform="translate(-1656.872 -345)"/>
+      </g>
+    </g>
+  </g>
+</svg>

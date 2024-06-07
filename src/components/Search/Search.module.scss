@@ -1,0 +1,71 @@
+@import '../../../styles/colors';
+
+.searchContainer {
+    display: flex;
+    align-items: center;
+    position: relative;
+    align-self: center;
+    width: 100%;
+    background-color: $white;
+    border-radius: 10px;
+  
+    input[type="text"] {
+      font-size: 20px;
+      background-color: $white;
+      color: $black;
+      height: 70px;
+      max-width: calc(100% - 140px);
+      @media (max-width: 768px) {
+        padding: 10px 15px;
+        font-size: 14px;
+        height: 60px;
+        max-width: calc(100% - 84px);
+      }
+    }
+  
+    ::placeholder {
+      color: $gray-light;
+      opacity: 1;
+    }
+  
+    ::-ms-input-placeholder {
+      color: $gray-light;
+    }
+  
+    button {
+      position: absolute;
+      right: 20px;
+      .searchIcon {
+        display: none;
+      }
+      @media (max-width: 768px) {
+        right: 17px;
+        min-width: 0;
+        .searchText {
+          display: none;
+        }
+        .searchIcon {
+          display: inline;
+        }
+      }
+    }
+    .close {
+      position: absolute;
+      right: 125px;
+      width: 25px;
+      height: 25px;
+      background-color: $primary-color;
+      border-radius: 50px;
+      vertical-align: text-top;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-size: 12px;
+      font-weight: 600;
+      cursor: pointer;
+      @media (max-width: 768px) {
+        right: 60px;
+      }
+      }
+  
+  }

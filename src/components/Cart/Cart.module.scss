@@ -1,0 +1,89 @@
+@import '../../../styles/colors';
+
+.tabs {
+    overflow: hidden;
+    background-color: $primary-color;
+    display: flex;
+    border-radius: 8px;
+    button {
+      background-color: inherit;
+      transition: 0.3s;
+      &:hover {
+        background-color: darken($primary-color, 4%);
+      }
+      &.active {
+        background-color: $secondary-color;
+      }
+    }
+  }
+
+  .tabContent {
+    height: 64vh;
+    overflow-y: auto;
+    margin-top: 10px;
+    .iconsContainer {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: left;
+      .icon {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: $white;
+        margin: 7px;
+        padding: 10px;
+        border-radius: 10px;
+        cursor: pointer;
+        flex-direction: column;
+        position: relative;
+
+        border: 3px dotted darken($primary-color, 4%);
+        width: 82px;
+        height: 100px;
+        cursor: inherit;
+         p{
+          margin-bottom: 0;
+         }
+        &:hover {
+          background-color: $secondary-color;
+          border: none;
+          .close {
+            display: inline;
+          }
+        }
+      
+        p {
+            font-size: 11px;
+            text-align: center;
+            letter-spacing: 0.2px;
+        }
+        .close {
+          display: none;
+          cursor: pointer;
+          font-size: 12px;
+          position: absolute;
+          top: 3px;
+          right: 6px;
+
+        }
+      }
+      .free {
+        height: 82px;
+      }
+    }
+  }
+
+  .checkoutWrapper {
+    width: 290px;
+    position: absolute;
+    bottom: 30px;
+    .subTotal {
+      border-top: 1px solid $primary-color;
+      padding: 15px 0;
+      display: flex;
+      justify-content: space-between;
+    }
+    button {
+      width: 100%;
+    }
+  }

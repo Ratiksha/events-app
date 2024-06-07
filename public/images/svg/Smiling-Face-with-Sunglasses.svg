@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" viewBox="0 0 100 100">
+  <defs>
+    <clipPath id="clip-Smiling-Face-with-Sunglasses">
+      <rect width="100" height="100"/>
+    </clipPath>
+  </defs>
+  <g id="Smiling-Face-with-Sunglasses" clip-path="url(#clip-Smiling-Face-with-Sunglasses)">
+    <g id="Group_197" data-name="Group 197">
+      <path id="Path_4" data-name="Path 4" d="M50,7.5A42.5,42.5,0,1,0,92.5,50,42.548,42.548,0,0,0,50,7.5M50,0A50,50,0,1,1,0,50,50,50,0,0,1,50,0Z"/>
+      <path id="Path_29" data-name="Path 29" d="M3.058,48.315c12.5,7.709,27.162,5.47,38.925,0s-3.546,11.8-19.106,12.179S-9.438,40.606,3.058,48.315Z" transform="translate(27.307 19.851)"/>
+      <path id="Path_76" data-name="Path 76" d="M2211.951,376.6s15.956-.638,25.8.806,6.315,3.628,13.571,3.628,5.207-2.385,15.452-3.628,25.529,0,25.529,0,1.109.941,0,3.628-2.391,6.624-2.391,6.624-3.118,13.665-17.629,14.471-18.677-13.974-18.677-13.974-1.209-3.326-2.284-3.09-2.015,4.031-2.015,4.031-5.778,13.839-18.408,13.033-15.989-13.033-15.989-13.033a59.5,59.5,0,0,1-2.956-8.062C2211.212,377.913,2211.951,376.6,2211.951,376.6Z" transform="translate(-2202.623 -346)"/>
+    </g>
+  </g>
+</svg>

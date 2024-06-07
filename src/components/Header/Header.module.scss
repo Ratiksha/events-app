@@ -1,0 +1,33 @@
+.header {
+    padding: 15px 30px;
+    width: 100%;
+    max-width: 1440px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    .topNav {
+      display: flex;
+      justify-content: space-between;
+      align-content: center;
+      
+      .logo {
+        margin-top: 10px;
+      }
+    }
+  }
+
+  @media (max-width: 768px) {
+    .topNav  {
+      ul {
+        gap: 10px !important;
+        li span {
+          font-size: 14px;
+        }
+      } 
+    }
+    
+  }
+
+
+ 

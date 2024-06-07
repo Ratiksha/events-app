@@ -1,12 +1,21 @@
+
 import '../styles/globals.css';
 import '../styles/general.scss';
-import MainLayout from '../src/components/layout/main-layout'
+import 'react-toastify/dist/ReactToastify.css';
+import MainLayout from '../src/components/MainLayout';
+import { wrapper } from '../redux/store';
+import { Provider } from 'react-redux';
+import { ToastContainer } from 'react-toastify';
 
-function MyApp({ Component, pageProps }) {
+const MyApp = ({ Component, ...rest }) => {
+  const {store, props} = wrapper.useWrappedStore(rest);
   return (
-    <MainLayout>
-      <Component {...pageProps} />
-    </MainLayout>)
+    <Provider store={store}>
+      <ToastContainer />
+      <MainLayout>
+        <Component {...props.pageProps} />
+      </MainLayout>
+    </Provider>)
 }
 
 export default MyApp
